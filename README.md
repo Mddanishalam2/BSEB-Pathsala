@@ -1,73 +1,72 @@
-# Welcome to your Lovable project
+# 📘 BSEB-Pathsala
 
-## Project info
+**BSEB-Pathsala** is a free educational website designed to help students from **Class 8 to Class 12** prepare effectively for their **board examinations**.  
+The platform provides **free study materials**, **best YouTube video recommendations**, and **exam preparation tips**, all in one place.
 
-**URL**: https://lovable.dev/projects/c11914c6-33f4-4455-9853-0a84abfadeb1
+---
 
-## How can I edit this code?
+## 🌟 Features
 
-There are several ways of editing your application.
+- 📚 Free study materials for Classes 8–12  
+- 🎥 Curated YouTube videos for concept clarity  
+- 📝 Board exam preparation tips & strategies  
+- 🎯 Focused on **BSEB (Bihar School Examination Board)** syllabus  
+- 🎨 Modern and responsive UI using **Tailwind CSS**  
+- ⚡ Fast and interactive frontend with **React + TypeScript (.tsx)**  
+- 💯 Completely free for students
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c11914c6-33f4-4455-9853-0a84abfadeb1) and start prompting.
+## 🏫 Target Audience
 
-Changes made via Lovable will be committed automatically to this repo.
+- Students from **Class 8 to Class 12**
+- Special focus on **BSEB board students**
+- Teachers and self-learners
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Frontend
+- React  
+- TypeScript (.tsx)  
+- Tailwind CSS  
+- HTML5  
 
-Follow these steps:
+### Tools
+- VS Code  
+- Git & GitHub  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📌 Project Objective
 
-# Step 3: Install the necessary dependencies.
-npm i
+To make quality education accessible to every student, especially those preparing for BSEB board exams, by providing free, reliable, and structured learning resources.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🔮 Future Enhancements
 
-**Edit a file directly in GitHub**
+📂 Subject-wise notes (PDF downloads)
+🧪 Practice questions & mock tests
+👤 Student login & dashboard
+📊 Progress tracking
+📱 Fully responsive mobile experience
+🌐 Backend integration
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repository, create a new branch, and submit a pull request.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📧 Contact
+Developer: Md Danish Alam
+GitHub: https://github.com/Mddanishalam2
+---
 
-## What technologies are used for this project?
+⭐ Support
 
-This project is built with:
+If you find this project helpful, please consider giving it a ⭐ on GitHub.
+Your support motivates further development 😊
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c11914c6-33f4-4455-9853-0a84abfadeb1) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+📖 “Education is the most powerful weapon which you can use to change the world.”
+— Nelson Mandela
+---
