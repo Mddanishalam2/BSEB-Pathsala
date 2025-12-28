@@ -46,10 +46,15 @@ To make quality education accessible to every student, especially those preparin
 🔮 Future Enhancements
 
 📂 Subject-wise notes (PDF downloads)
+
 🧪 Practice questions & mock tests
+
 👤 Student login & dashboard
+
 📊 Progress tracking
+
 📱 Fully responsive mobile experience
+
 🌐 Backend integration
 
 
@@ -59,8 +64,8 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 
 📧 Contact
 Developer: Md Danish Alam
+
 GitHub: https://github.com/Mddanishalam2
----
 
 ⭐ Support
 
